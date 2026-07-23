@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!.terraform.tfvars.example
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "name": "algobeat-website",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "dev": "wrangler pages dev public",
+    "deploy": "wrangler pages deploy public --project-name=algobeat",
+    "check": "node scripts/check-site.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.26.0"
+  }
+}

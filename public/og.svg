@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#59e3e9"/><stop offset="1" stop-color="#b970e6"/></linearGradient><radialGradient id="r"><stop stop-color="#173a45"/><stop offset="1" stop-color="#07090f"/></radialGradient></defs>
+  <rect width="1200" height="630" fill="#07090f"/><circle cx="920" cy="300" r="270" fill="url(#r)"/><circle cx="920" cy="300" r="155" fill="none" stroke="url(#g)" stroke-width="2"/><text x="920" y="340" text-anchor="middle" fill="url(#g)" font-family="sans-serif" font-size="120" font-weight="800">AB</text>
+  <text x="80" y="130" fill="#59e3e9" font-family="monospace" font-size="24" letter-spacing="6">ALGOBEAT</text><text x="80" y="290" fill="#f5f7fa" font-family="sans-serif" font-size="82" font-weight="700">Your voice.</text><text x="80" y="385" fill="url(#g)" font-family="sans-serif" font-size="82" font-weight="700">Every song.</text><text x="80" y="475" fill="#9aa4b5" font-family="sans-serif" font-size="28">Voice-native music creation.</text>
+</svg>
